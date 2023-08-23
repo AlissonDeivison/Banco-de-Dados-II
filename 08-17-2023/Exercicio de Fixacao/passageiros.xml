@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<passageiros>
+    <passageiro>
+        <nome>Alisson Deivison Silva Pereira</nome>
+        <idade>30</idade>
+        <numero_do_ticket>13</numero_do_ticket>
+        <origem>Campina Grande</origem>
+        <destino>Toronto</destino>
+    </passageiro>
+    <passageiro>
+        <nome>Jully Desirrê da Motta Luna</nome>
+        <idade>26</idade>
+        <numero_do_ticket>14</numero_do_ticket>
+        <origem>Campina Grande</origem>
+        <destino>Toronto</destino>
+    </passageiro>
+    <passageiro>
+        <nome>Alissa Emanuela da Motta Pereira</nome>
+        <idade>5</idade>
+        <numero_do_ticket>15</numero_do_ticket>
+        <origem>Campina Grande</origem>
+        <destino>Toronto</destino>
+    </passageiro>
+    <passageiro>
+        <nome>Adinoel Falcão Pereira</nome>
+        <idade>63</idade>
+        <numero_do_ticket>16</numero_do_ticket>
+        <origem>João Pessoa</origem>
+        <destino>Alberta</destino>
+    </passageiro>
+    <passageiro>
+        <nome>Maria Aparecida Gomes da Silva</nome>
+        <idade>48</idade>
+        <numero_do_ticket>17</numero_do_ticket>
+        <origem>Recife</origem>
+        <destino>New Scotia</destino>
+    </passageiro>
+</passageiros>
