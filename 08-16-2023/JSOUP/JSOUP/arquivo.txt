@@ -1,0 +1,25 @@
+<h2 class="vector-pinnable-header-label">Conteúdo</h2>
+<h1 id="firstHeading" class="firstHeading mw-first-heading"><i>Harry Potter</i></h1>
+<h2><span class="mw-headline" id="Enredo">Enredo</span></h2>
+<h2><span id="Tem.C3.A1tica_e_conte.C3.BAdo"></span><span class="mw-headline" id="Temática_e_conteúdo">Temática e conteúdo</span></h2>
+<h3><span class="mw-headline" id="Estrutura">Estrutura</span></h3>
+<h2><span id="Hist.C3.B3rico"></span><span class="mw-headline" id="Histórico">Histórico</span></h2>
+<h3><span class="mw-headline" id="Origem">Origem</span></h3>
+<h3><span id="Publica.C3.A7.C3.A3o"></span><span class="mw-headline" id="Publicação">Publicação</span></h3>
+<h3><span id="Tradu.C3.A7.C3.A3o"></span><span class="mw-headline" id="Tradução">Tradução</span></h3>
+<h3><span id="Conclus.C3.A3o"></span><span class="mw-headline" id="Conclusão">Conclusão</span></h3>
+<h2><span id="Recep.C3.A7.C3.A3o"></span><span class="mw-headline" id="Recepção">Recepção</span></h2>
+<h3><span id="Cr.C3.ADticas_liter.C3.A1rias"></span><span class="mw-headline" id="Críticas_literárias">Críticas literárias</span></h3>
+<h3><span class="mw-headline" id="Impacto_cultural">Impacto cultural</span></h3>
+<h3><span id="Pr.C3.AAmios_e_honrarias"></span><span class="mw-headline" id="Prêmios_e_honrarias">Prêmios e honrarias</span></h3>
+<h3><span id="Controv.C3.A9rsias"></span><span class="mw-headline" id="Controvérsias">Controvérsias</span></h3>
+<h2><span id="Adapta.C3.A7.C3.B5es"></span><span class="mw-headline" id="Adaptações">Adaptações</span></h2>
+<h3><span class="mw-headline" id="Cinema">Cinema</span></h3>
+<h4><span id="Conclus.C3.A3o_2"></span><span class="mw-headline" id="Conclusão_2">Conclusão</span></h4>
+<h3><span class="mw-headline" id="Jogos">Jogos</span></h3>
+<h3><span class="mw-headline" id="Audiolivros">Audiolivros</span></h3>
+<h3><span class="mw-headline" id="Teatro">Teatro</span></h3>
+<h2><span id="Ver_tamb.C3.A9m"></span><span class="mw-headline" id="Ver_também">Ver também</span></h2>
+<h2 style="cursor: help;" title="Esta seção foi configurada para não ser editável diretamente. Edite a página toda ou a seção anterior em vez disso."><span id="Refer.C3.AAncias"></span><span class="mw-headline" id="Referências">Referências</span></h2>
+<h3><span class="mw-headline" id="Bibliografia">Bibliografia</span></h3>
+<h2><span id="Liga.C3.A7.C3.B5es_externas"></span><span class="mw-headline" id="Ligações_externas">Ligações externas</span></h2>
