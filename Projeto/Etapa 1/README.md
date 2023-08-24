@@ -25,5 +25,3 @@ O projeto será desenvolvido utilizando as seguintes tecnologias:
 
 ## Licença
 Este projeto está livre.
-
-![Modelo de dados importados no arquivo excel](https://uploaddeimagens.com.br/imagens/x52oXgk)
