@@ -24,4 +24,4 @@ O projeto será desenvolvido utilizando as seguintes tecnologias:
 
 
 ## Licença
-Este projeto está livre.
+Este projeto está sob licença livre.
