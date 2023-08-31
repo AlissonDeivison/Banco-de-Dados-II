@@ -39,15 +39,16 @@ for time in dados:
     values = (id, abbreviation, city, conference, division, full_name, name)
     try:
         cursor.execute(sql,values)
-        print("Inserindo dados no banco")
     except OperationalError as e:
         print("Erro ao inserir os dados")
         
+
+print("Inserindo dados no banco")
 cursor.close()
 conn.commit()
     
 try:
     conn.close
-    print("Fechou")
+    print("Conexão com o banco encerrada")
 except OperationalError as e:
-    print(f"Fechou")
+    print(f"Erro ao tentar encerrar a conexão: {e}")
