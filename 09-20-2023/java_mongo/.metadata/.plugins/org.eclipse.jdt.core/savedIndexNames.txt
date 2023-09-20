@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+E:\java_mongo\.metadata\.plugins\org.eclipse.jdt.core
+1696264553.index
+3095642208.index
+1865797976.index
+2872938668.index
